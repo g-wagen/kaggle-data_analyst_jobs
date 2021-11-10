@@ -22,4 +22,3 @@ My tools of choice will be Python and Pandas.
 
 It's important to keep in mind that the dataset is rather small and only refers to job postings in the United States of America. It would be interesting to incorporate more data from other countries.
 
-
